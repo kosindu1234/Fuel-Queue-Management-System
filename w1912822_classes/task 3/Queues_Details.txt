@@ -1,0 +1,36 @@
+---Customers Details---
+---Pump1---
+customer no.1nvhvl
+customer no.2vvtuf
+customer no.3gghg
+customer no.4atyfi
+customer no.5zrty
+customer no.6dftuku
+---Pump2---
+customer no.1empty
+customer no.2null
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump3---
+customer no.1empty
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump4---
+customer no.1empty
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump5---
+customer no.1empty
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty

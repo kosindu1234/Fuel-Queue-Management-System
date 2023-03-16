@@ -1,0 +1,22 @@
+---Customers Details---
+---Pump1---
+customer no.1Empty Customer
+customer no.2kosindu
+customer no.3maleesha
+customer no.4pavan
+customer no.5poorna
+customer no.6tharinda
+---Pump2---
+customer no.1Empty Customer
+customer no.2Empty Customer
+customer no.3tashini
+customer no.4lakshan
+customer no.5Empty Customer
+customer no.6Empty Customer
+---Pump3---
+customer no.1chanindu
+customer no.2dahanayake
+customer no.3Empty Customer
+customer no.4Empty Customer
+customer no.5Empty Customer
+customer no.6Empty Customer

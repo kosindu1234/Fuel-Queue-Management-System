@@ -1,0 +1,36 @@
+---Customers Details---
+---Pump1---
+customer no.1malee
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump2---
+customer no.1dd
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump3---
+customer no.1fj
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump4---
+customer no.1kosindu
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
+---Pump5---
+customer no.1dd
+customer no.2empty
+customer no.3empty
+customer no.4empty
+customer no.5empty
+customer no.6empty
